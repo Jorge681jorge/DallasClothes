@@ -1,0 +1,54 @@
+
+.navbar, .card-header, .btn{
+    background-color: black;
+    opacity: 1;
+}
+.encabezado{
+    background-color: white;
+}
+.container{
+    text-align: center;
+}
+.nav-link{
+    color: white;
+}
+#padre{
+    position: relative;    /* para poder posicionar el texto de forma absoluta */
+    display: inline-block;
+    
+}
+.texto-en-imagen{
+    position: absolute;    /* posición absolute con respecto al padre */
+    bottom: 0;             /* posicionada en la esquina inferior derecha */
+    width: 86%;
+    background-color: gray;
+    opacity: 0.8;
+}
+
+#enlace{
+    color: black;
+    font-size: 30;
+}
+#enlace:hover {
+    color: white;
+    text-decoration: none; 
+    font-size: 34; 
+}
+.f{
+    opacity: 0.9;
+}
+
+.footer{
+    font-family: Arial;
+    font-size: 15px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    margin: auto;    
+    border-radius: 0 0 15px 15px;
+    padding: 5px;
+}
+.ulsv{
+    list-style: none;
+}
+.blackiconcolor {color:red;}
