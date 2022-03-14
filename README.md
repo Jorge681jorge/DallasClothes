@@ -9,3 +9,12 @@
 
  Este proyecto está registrado con derechos de autor en el repositorio de la Universidad Distrital José Francisco De Caldas.
 
+    Pagina web de prueba:
+
+     _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+    |        Usuario     |      correo        |     password:     |
+    | _ _ _ _ _ _ _ _ _ _| _ _ _ _ _ _ _ _ _ _|_ _ _ _ _ _ _ _ _ _|
+    |    Administrador   |  123@gmail.com     |        123        |
+    |    Cliente         |  1@1.com           |         1         |
+    |    provedor        |  prueba@prueba.com |        123        |
+    | _ _ _ _ _ _ _ _ _ _| _ _ _ _ _ _ _ _ _ _|_ _ _ _ _ _ _ _ _ _|
