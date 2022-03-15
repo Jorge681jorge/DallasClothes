@@ -18,3 +18,11 @@
     |    Cliente         |  1@1.com           |         1         |
     |    provedor        |  prueba@prueba.com |        123        |
     | _ _ _ _ _ _ _ _ _ _| _ _ _ _ _ _ _ _ _ _|_ _ _ _ _ _ _ _ _ _|
+    
+    
+    Dase de datos mysql: DallasClothes\src\persistencia\dalladb.sql
+    
+    Dase de datos desde el apache del docker:
+    puerto: 8080
+    user: root
+    password: example
