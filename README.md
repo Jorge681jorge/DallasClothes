@@ -1,8 +1,17 @@
 # DallasClothes
- EL PROYECTO DALLA’S CLOTHES ES UN SISTEMA DE INFORMACIÓN WEB DESARROLLADO EN LENGUAJE PHP CON BASE DE 
- DATOS MYSQL DE E-COMMERCE ALTERNATIVO, CON EL FIN DE CREAR UNA PLATAFORMA PARA QUE DIFERENTES 
- PROVEEDORES O INDEPENDIENTES QUE DESEAN PUBLICAR Y PRESENTEN SUS PRODUCTOS AL PÚBLICO EN GENERAL
+
+   Este proyecto nace con la intención de ser una herramienta para ayudar al momento de la contratación en una empresa, 
+   ofreciendo la posibilidad de documentar cada uno de los procesos que se requieran en esta operación. 
+   Este proyecto está desarrollado con el uso de PHP, JavaScript, jQuery, Bootstrap, HTML/ CSS y MySQL. 
+
+
+      Ver Docuementos:
+      
+      # Manual de usuario Dallas Clotes (Ubicado en la raiz del proyecto)
+      
+      # Documentacion Dallas Clotes (Ubicado en la raiz del proyecto)
  
+
  Ecommerce de ropa con gestión de clientes, proveedores, productos, factura, perfil y log.
 
  El proyecto se modificó integrando la herramienta de Docker para mejorar y facilitar la presentación de proyecto y su testeo en diferentes equipos.
